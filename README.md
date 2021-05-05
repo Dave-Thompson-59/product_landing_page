@@ -1,4 +1,4 @@
-### [This is my Product Landing Page Project]
+This is my Product Landing Page Project
 
 It is the 3nd project in FCC Responsive Website Design Module
 
